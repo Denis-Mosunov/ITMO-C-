@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\1\source\repos\ITMO-C--main\Практическое занятие 14\Упражнение 4. Использование шаблонного класса массива\ConsoleApplication1\main.cpp(23,28): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\1\source\repos\ITMO-C--main\Практическое занятие 14\Упражнение 4. Использование шаблонного класса массива\ConsoleApplication1\main.cpp(23,28): warning C4244:         with
+C:\Users\1\source\repos\ITMO-C--main\Практическое занятие 14\Упражнение 4. Использование шаблонного класса массива\ConsoleApplication1\main.cpp(23,28): warning C4244:         [
+C:\Users\1\source\repos\ITMO-C--main\Практическое занятие 14\Упражнение 4. Использование шаблонного класса массива\ConsoleApplication1\main.cpp(23,28): warning C4244:             T=float
+C:\Users\1\source\repos\ITMO-C--main\Практическое занятие 14\Упражнение 4. Использование шаблонного класса массива\ConsoleApplication1\main.cpp(23,28): warning C4244:         ]
+  ConsoleApplication1.vcxproj -> C:\Users\1\source\repos\ITMO-C--main\Практическое занятие 14\Упражнение 4. Использование шаблонного класса массива\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
