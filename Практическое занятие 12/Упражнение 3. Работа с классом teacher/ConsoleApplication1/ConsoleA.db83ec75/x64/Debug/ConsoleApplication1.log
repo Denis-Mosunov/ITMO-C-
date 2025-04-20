@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\1\source\repos\ITMO-C--main\Практическое занятие 12\Упражнение 3. Работа с классом teacher\ConsoleApplication1\student.h(12,35): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+  ConsoleApplication1.vcxproj -> C:\Users\1\source\repos\ITMO-C--main\Практическое занятие 12\Упражнение 3. Работа с классом teacher\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
